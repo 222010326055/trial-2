@@ -1,0 +1,40 @@
+html{
+    background: url('iamge.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+body{
+    background: coral;
+    width: 15px;
+    padding: 10px 30px;
+    margin: 25px auto;
+    border-radius: 25px;
+}
+h1{
+    font-size: 40px;
+    font-variant: small-caps;
+}
+h2{
+    font-size: 36px;
+    font-variant: small-caps;
+}
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+     color: yellowgreen;
+}
+li{
+    margin-bottom: 10px;
+}
+button{
+    background: red;
+    padding: 5px 30px;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#disp{
+    border: 1.5px solid lightblue;
+    padding: 25px;
+    font-size:16px;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+}
